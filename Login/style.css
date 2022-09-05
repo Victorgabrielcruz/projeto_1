@@ -1,0 +1,40 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: aqua;
+    font-family: 'Open Sans', sans-serif;
+}
+.frooContaner{
+    max-width: 230px;
+    padding: 20px;
+    background-color: #ffffffbb;
+    margin:auto;
+    margin-top: 15%;
+    max-width: 250px;
+    border-radius: 10px;
+}
+form{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    margin-bottom: 10px;
+}
+input[type="submit"]{
+    background-color: rgb(67, 142, 185);
+    color: white;
+    font-weight: bold;
+    border: none;
+
+}
+input{
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    margin-bottom: 5px;
+    ;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
