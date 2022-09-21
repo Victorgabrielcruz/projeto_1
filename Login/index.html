@@ -13,13 +13,18 @@
 
 </head>
 <body>
+    <script src="scrip.js"></script>
     <div class="Contaner">
         <div class="frooContaner">
             <h2>Login</h2>
             <form method="get">
                 <input id="name" name="name" placeholder="Nome">
                 <input id="Email" name="Email" placeholder="Email">
-                <input type="submit" value="Login">
+
+                <div onmouseover="passar(this)" onmouseout="sair(this)">
+                    <input type="submit" value="Login" >
+                </div>
+                
             </form>
         </div>
     </div>
