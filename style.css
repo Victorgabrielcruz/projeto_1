@@ -1,6 +1,6 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    margin: 0;
+    margin: auto;
     padding: 0;
 }
 .TopBar{
@@ -26,7 +26,7 @@ body{
 
 }
 .Contanerimg{
-    margin: 15% auto;
+    margin:  auto;
     padding: 20px;
     border-radius: 5px;
     width: 80%;
@@ -63,22 +63,7 @@ body{
 .ImgHo{
     margin-left: 12%;
 }
-.modal{
-    display: none;
-    position: fixed;
-    z-index: 1;
-    width: 80%;
-    height: 80%;
-    overflow: auto;
-    background-color: rgb(0, 0, 0.4);
+.b{
+    margin: auto;
 }
-.modal .contmodal{
-    background-color: #d3d3d3;
-    margin: 15% auto;
-    padding: 20px;
-    border-radius: 5px;
-    width: 70%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
+
