@@ -15,8 +15,7 @@ body{
 
 }
 .HeaderLine{
-    font-size: 56px;
-    line-height: 64px;
+    margin-top: 20px;
 }
 .Contaner{
     color:rgb(97, 96, 96);
