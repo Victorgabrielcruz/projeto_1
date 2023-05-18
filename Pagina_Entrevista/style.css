@@ -14,8 +14,8 @@ body{
     position: fixed;
 
 }
-.HeaderLine{
-    line-height: 64px;
+.Header{
+    margin-top: 20px;
 }
 .Contaner{
     color:rgb(97, 96, 96);
