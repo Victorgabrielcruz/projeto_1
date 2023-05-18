@@ -14,7 +14,9 @@ body{
     position: fixed;
 
 }
-
+.HeaderLine{
+    line-height: 64px;
+}
 .Contaner{
     color:rgb(97, 96, 96);
     max-width: 888px;
